@@ -4,3 +4,4 @@ git 教程
 =======
 -fix-B
 >>>>>>> fix-B
+- feature-C
